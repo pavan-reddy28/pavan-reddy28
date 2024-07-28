@@ -1,5 +1,7 @@
 <div align="center">
 
+![Developer Banner](https://media.licdn.com/dms/image/D4D16AQE35W41k1X6ug/profile-displaybackgroundimage-shrink_350_1400/0/1679308101227?e=1698883200&v=beta&t=SKTb6kERonRYl-vRBcKUkdZOdQWFE_HX6yOtNWFl3ng)
+
 # Hi there, I'm Pavan A! 👋
 
 </div>
@@ -48,11 +50,5 @@ MSRITPP, created by a mechanical engineer, provides comprehensive academic resou
 ---
 
 Feel free to connect with me!
-
-<div align="center">
-  
-![Profile Animation](https://media.giphy.com/media/l0HlD9J5zq9V9usAM/giphy.gif)
-
-</div>
 
 
