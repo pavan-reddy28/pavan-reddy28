@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi there, I'm Pavan A! 👋
 
 ## About Me
@@ -15,14 +17,20 @@ I'm a passionate frontend developer and Python developer with a strong backgroun
 ## Projects
 
 ### Quatlas Aeromodelling
-[![quatlas.web.app](https://img.shields.io/badge/Quatlas-Aeromodelling-ff69b4?style=for-the-badge)](https://quatlas.web.app)
+[quatlas.web.app](https://quatlas.web.app)
 
 Quatlas Aeromodelling, affiliated with the Ramaiah Institute of Technology, is dedicated to designing and building radio-controlled aircraft. They participate in the SAE Aero Design Competition, focusing on fostering skills in aerospace modeling and engineering. The team emphasizes collaboration, leadership, and innovation while aiming to inspire future engineers. Their website provides information on their projects, achievements, sponsorships, and crowdfunding efforts.
 
 ### MSRITPP
-[![msritpp.web.app](https://img.shields.io/badge/MSRITPP-Web%20App-brightgreen?style=for-the-badge)](https://msritpp.web.app)
+[msritpp.web.app](https://msritpp.web.app)
 
 MSRITPP, created by a mechanical engineer, provides comprehensive academic resources and notes for students, sourced from professors. The platform covers various subjects across multiple semesters, including previous year question papers. It aims to offer high-quality and reliable study materials to help students excel in their academics.
+
+## GitHub Stats
+
+![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavan-reddy28&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavan-reddy28&layout=compact&theme=radical)
 
 ## Contact
 
@@ -31,3 +39,6 @@ MSRITPP, created by a mechanical engineer, provides comprehensive academic resou
 ---
 
 Feel free to connect with me!
+
+</div>
+
