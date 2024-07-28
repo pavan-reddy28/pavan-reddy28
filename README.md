@@ -1,7 +1,5 @@
 # Hi there, I'm Pavan A! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
-
 ## About Me
 
 I'm a passionate frontend developer and Python developer with a strong background in web development. I am currently a 3rd year Mechanical Engineering student at M.S. Ramaiah Institute of Technology. I love exploring new technologies and leveraging them to solve real-world problems.
@@ -19,8 +17,12 @@ I'm a passionate frontend developer and Python developer with a strong backgroun
 ### Quatlas Aeromodelling
 [![quatlas.web.app](https://img.shields.io/badge/Quatlas-Aeromodelling-ff69b4?style=for-the-badge)](https://quatlas.web.app)
 
+Quatlas Aeromodelling, affiliated with the Ramaiah Institute of Technology, is dedicated to designing and building radio-controlled aircraft. They participate in the SAE Aero Design Competition, focusing on fostering skills in aerospace modeling and engineering. The team emphasizes collaboration, leadership, and innovation while aiming to inspire future engineers. Their website provides information on their projects, achievements, sponsorships, and crowdfunding efforts.
+
 ### MSRITPP
 [![msritpp.web.app](https://img.shields.io/badge/MSRITPP-Web%20App-brightgreen?style=for-the-badge)](https://msritpp.web.app)
+
+MSRITPP, created by a mechanical engineer, provides comprehensive academic resources and notes for students, sourced from professors. The platform covers various subjects across multiple semesters, including previous year question papers. It aims to offer high-quality and reliable study materials to help students excel in their academics.
 
 ## Contact
 
