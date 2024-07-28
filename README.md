@@ -1,6 +1,6 @@
 <div align="center">
 
-![Developer Banner](https://media.licdn.com/dms/image/D4D16AQE35W41k1X6ug/profile-displaybackgroundimage-shrink_350_1400/0/1679308101227?e=1698883200&v=beta&t=SKTb6kERonRYl-vRBcKUkdZOdQWFE_HX6yOtNWFl3ng)
+![Developer Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fshubhambharti4716%2Fshubhambharti4716&psig=AOvVaw3A2C3tx9neUV_pjRhdZsHP&ust=1722259335661000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjTw7nqyYcDFQAAAAAdAAAAABAE)
 
 # Hi there, I'm Pavan A! 👋
 
