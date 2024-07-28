@@ -10,8 +10,13 @@ I'm a passionate frontend developer and Python developer with a strong backgroun
 
 ## Skills
 
+### Programming Languages
+
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### Web Development
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -38,9 +43,16 @@ MSRITPP, created by a mechanical engineer, provides comprehensive academic resou
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pavan.aashok1234gh@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pavan-reddy28)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-reddy-667b09284)
 
 ---
 
 Feel free to connect with me!
+
+<div align="center">
+  
+![Profile Animation](https://media.giphy.com/media/l0HlD9J5zq9V9usAM/giphy.gif)
+
+</div>
 
 
