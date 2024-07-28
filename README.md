@@ -2,6 +2,8 @@
 
 # Hi there, I'm Pavan A! 👋
 
+</div>
+
 ## About Me
 
 I'm a passionate frontend developer and Python developer with a strong background in web development. I am currently a 3rd year Mechanical Engineering student at M.S. Ramaiah Institute of Technology. I love exploring new technologies and leveraging them to solve real-world problems.
@@ -35,10 +37,10 @@ MSRITPP, created by a mechanical engineer, provides comprehensive academic resou
 ## Contact
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pavan.aashok1234gh@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pavan-reddy28)
 
 ---
 
 Feel free to connect with me!
 
-</div>
 
