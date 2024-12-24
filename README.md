@@ -35,6 +35,7 @@ MSRITPP, created by a mechanical engineer, provides comprehensive academic resou
 
 ### SHAYANDESIGNSTUDIO
 [shayandesignstudio.in](https://shayandesignstudio.in)
+
 Developed the official website for Shayan Design Studio using the MERN stack (MongoDB, Express, React, Node.js). Designed a responsive and user-friendly interface, implemented dynamic features, and optimized the website for performance and SEO, ensuring a seamless user experience.
 
 ## Contact
