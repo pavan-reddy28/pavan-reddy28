@@ -33,6 +33,10 @@ Quatlas Aeromodelling, affiliated with the Ramaiah Institute of Technology, is d
 
 MSRITPP, created by a mechanical engineer, provides comprehensive academic resources and notes for students, sourced from professors. The platform covers various subjects across multiple semesters, including previous year question papers. It aims to offer high-quality and reliable study materials to help students excel in their academics.
 
+### SHAYANDESIGNSTUDIO
+[shayandesignstudio.in](https://shayandesignstudio.in)
+Developed the official website for Shayan Design Studio using the MERN stack (MongoDB, Express, React, Node.js). Designed a responsive and user-friendly interface, implemented dynamic features, and optimized the website for performance and SEO, ensuring a seamless user experience.
+
 ## Contact
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pavan.aashok1234gh@gmail.com)
